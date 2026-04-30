@@ -56,6 +56,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - [Hootsuite](https://hootsuite.com/) – Schedule and manage LinkedIn content.
 - [Buffer](https://buffer.com/) – Social media management tool with LinkedIn support.
 - [Canva for LinkedIn](https://www.canva.com/create/linkedin-posts/) – Design professional LinkedIn posts and banners.
+- [Cyber Collector](https://t.me/cybercollectorbot) – Free Telegram bot for downloading videos from TikTok (no watermark), Instagram Reels/Stories, YouTube+Shorts, X/Twitter, and Facebook. Useful for repurposing social media content. No signup, no ads. [Website](https://cybercollector.hitkey.io)
 
 ## Recruitment & Talent Solutions
 
