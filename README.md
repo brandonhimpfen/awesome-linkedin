@@ -49,6 +49,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - [LinkedIn Analytics](https://www.linkedin.com/help/linkedin/answer/4499) – Official analytics dashboard for profiles, pages, and posts.
 - [Shield Analytics](https://shieldapp.ai/) – Analytics for personal LinkedIn accounts.
 - [Socialinsider LinkedIn Analytics](https://www.socialinsider.io/) – LinkedIn Page performance tracking.
+- [linkedin2md](https://github.com/juanmanueldaza/linkedin2md) – Convert LinkedIn data exports to Markdown for LLM analysis and PDF resume generation.
 
 ## Marketing & Growth
 
