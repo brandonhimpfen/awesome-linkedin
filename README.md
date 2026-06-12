@@ -56,6 +56,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - [Hootsuite](https://hootsuite.com/) – Schedule and manage LinkedIn content.
 - [Buffer](https://buffer.com/) – Social media management tool with LinkedIn support.
 - [Canva for LinkedIn](https://www.canva.com/create/linkedin-posts/) – Design professional LinkedIn posts and banners.
+- [CreatorSkills](https://creatorskills.co) – Marketplace of 30+ downloadable AI skills for content creators covering scripting, sponsorship analysis, and audience growth. Works with Claude and ChatGPT.
 
 ## Recruitment & Talent Solutions
 
