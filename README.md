@@ -52,6 +52,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 
 ## Marketing & Growth
 
+- [SocialClaw](https://getsocialclaw.com/) – Schedule and publish posts to LinkedIn and 10 other platforms via dashboard, API, CLI, or MCP.
 - [LinkedIn Ads](https://www.linkedin.com/campaignmanager/) – Self-serve ad platform.
 - [Hootsuite](https://hootsuite.com/) – Schedule and manage LinkedIn content.
 - [Buffer](https://buffer.com/) – Social media management tool with LinkedIn support.
