@@ -47,6 +47,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 ## Data & Analytics
 
 - [LinkedIn Analytics](https://www.linkedin.com/help/linkedin/answer/4499) – Official analytics dashboard for profiles, pages, and posts.
+- [LinkedScore](https://www.linkedscore.app/) – Free AI profile analyzer with a 0-100 score and SSI breakdown.
 - [Shield Analytics](https://shieldapp.ai/) – Analytics for personal LinkedIn accounts.
 - [Socialinsider LinkedIn Analytics](https://www.socialinsider.io/) – LinkedIn Page performance tracking.
 
